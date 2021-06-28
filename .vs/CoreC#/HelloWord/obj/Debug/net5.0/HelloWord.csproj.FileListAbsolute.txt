@@ -1,0 +1,16 @@
+C:\Users\Shiv\Documents\Revature\2160728-UTA.NET\.vs\CoreC#\HelloWord\bin\Debug\net5.0\HelloWord.exe
+C:\Users\Shiv\Documents\Revature\2160728-UTA.NET\.vs\CoreC#\HelloWord\bin\Debug\net5.0\HelloWord.deps.json
+C:\Users\Shiv\Documents\Revature\2160728-UTA.NET\.vs\CoreC#\HelloWord\bin\Debug\net5.0\HelloWord.runtimeconfig.json
+C:\Users\Shiv\Documents\Revature\2160728-UTA.NET\.vs\CoreC#\HelloWord\bin\Debug\net5.0\HelloWord.runtimeconfig.dev.json
+C:\Users\Shiv\Documents\Revature\2160728-UTA.NET\.vs\CoreC#\HelloWord\bin\Debug\net5.0\HelloWord.dll
+C:\Users\Shiv\Documents\Revature\2160728-UTA.NET\.vs\CoreC#\HelloWord\bin\Debug\net5.0\ref\HelloWord.dll
+C:\Users\Shiv\Documents\Revature\2160728-UTA.NET\.vs\CoreC#\HelloWord\bin\Debug\net5.0\HelloWord.pdb
+C:\Users\Shiv\Documents\Revature\2160728-UTA.NET\.vs\CoreC#\HelloWord\obj\Debug\net5.0\HelloWord.csproj.AssemblyReference.cache
+C:\Users\Shiv\Documents\Revature\2160728-UTA.NET\.vs\CoreC#\HelloWord\obj\Debug\net5.0\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shiv\Documents\Revature\2160728-UTA.NET\.vs\CoreC#\HelloWord\obj\Debug\net5.0\HelloWord.AssemblyInfoInputs.cache
+C:\Users\Shiv\Documents\Revature\2160728-UTA.NET\.vs\CoreC#\HelloWord\obj\Debug\net5.0\HelloWord.AssemblyInfo.cs
+C:\Users\Shiv\Documents\Revature\2160728-UTA.NET\.vs\CoreC#\HelloWord\obj\Debug\net5.0\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\Shiv\Documents\Revature\2160728-UTA.NET\.vs\CoreC#\HelloWord\obj\Debug\net5.0\HelloWord.dll
+C:\Users\Shiv\Documents\Revature\2160728-UTA.NET\.vs\CoreC#\HelloWord\obj\Debug\net5.0\ref\HelloWord.dll
+C:\Users\Shiv\Documents\Revature\2160728-UTA.NET\.vs\CoreC#\HelloWord\obj\Debug\net5.0\HelloWord.pdb
+C:\Users\Shiv\Documents\Revature\2160728-UTA.NET\.vs\CoreC#\HelloWord\obj\Debug\net5.0\HelloWord.genruntimeconfig.cache
